@@ -5,3 +5,5 @@ end
 def greet(name)
   "Hello, #{name}!"
 end
+
+puts hello
